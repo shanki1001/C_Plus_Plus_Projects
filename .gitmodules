@@ -1,0 +1,12 @@
+[submodule "Ecommerce-system"]
+	path = Ecommerce-system
+	url = https://github.com/shanki1001/Ecommerce-system.git
+[submodule "gtk-process-manager"]
+	path = gtk-process-manager
+	url = https://github.com/shanki1001/gtk-process-manager.git
+[submodule "Task-Manager"]
+	path = Task-Manager
+	url = https://github.com/shanki1001/Task-Manager.git
+[submodule "Expense-Tracker"]
+	path = Expense-Tracker
+	url = https://github.com/shanki1001/Expense-Tracker.git
